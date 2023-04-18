@@ -1,0 +1,13 @@
+name = "Hedge Magic"
+filename = "hedgemagic-1.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d86430aa4251990f1f577023b6cf9ebaf0f1eed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4142102
+project-id = 637140

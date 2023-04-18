@@ -1,0 +1,13 @@
+name = "Musical Instrument Minecraft Interface (MIMI)"
+filename = "mimimod-1.18.2-3.1.1.BETA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0d9ec852c71dadfa1aa981b469af0877c6e6462"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4429717
+project-id = 499803

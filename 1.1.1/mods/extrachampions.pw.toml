@@ -1,0 +1,13 @@
+name = "ExtraChampions"
+filename = "extrachampions-1.18.2-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a90f27890d85160eb26ca7c142160118f77f2070"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4275848
+project-id = 620493

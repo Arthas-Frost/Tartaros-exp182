@@ -1,0 +1,13 @@
+name = "exp182"
+author = "Arthas_Frsot"
+version = "1.1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b5d4fc71446593f6c517b12e4084eb0676cb1601b3420c01de275e921fcf1287"
+
+[versions]
+forge = "40.2.0"
+minecraft = "1.18.2"
